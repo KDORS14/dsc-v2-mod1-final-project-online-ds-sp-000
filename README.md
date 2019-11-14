@@ -39,4 +39,4 @@ The objective of this project is to predict as accurately as possible the featur
 * 2. Cleaning the Dataset
 * 3. Exploratory Analysis
 * 4. Building The Regression Model
-* 5.5.0. Conclusion
+* 5. Conclusion
